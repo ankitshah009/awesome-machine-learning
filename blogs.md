@@ -1,63 +1,130 @@
-#### A List Of Machine Learning + Applied Math Blogs
+Blogs/Podcasts
+===============
 
-##### Data Science / Statistics
+[Hacker News for Data Science](https://www.datatau.com/news)
+[LightTag's Labeled Data Blog](https://lighttag.io/blog)
 
-http://iamtrask.github.io/
+Podcasts
+--------
 
-http://blog.explainmydata.com/
+[The O'Reilly Data Show](http://radar.oreilly.com/tag/oreilly-data-show-podcast)
 
-http://andrewgelman.com/
+[Partially Derivative](http://partiallyderivative.com/)
 
-http://simplystatistics.org/
+[The Talking Machines](https://www.thetalkingmachines.com/)
 
-http://www.evanmiller.org/
+[The Data Skeptic](https://dataskeptic.com/)
 
-http://jakevdp.github.io/
+[Linear Digressions](https://lineardigressions.com)
 
-http://blog.yhathq.com/
+[Data Stories](http://datastori.es/)
 
-http://blog.wesmckinney.com/
+[Learning Machines 101](https://www.learningmachines101.com/)
 
-http://www.overkillanalytics.net/
+[Not So Standard Deviations](https://simplystatistics.org/2015/09/17/not-so-standard-deviations-the-podcast/)
 
-http://newton.cx/~peter/
+[TWIMLAI](https://twimlai.com/shows/)
 
-http://mbakker7.github.io/exploratory_computing_with_python/
+[Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
 
-http://sebastianraschka.com/articles.html
+Newsletters
+-----------
 
-http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
+[AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
 
-http://colah.github.io/
+Data Science / Statistics
+-------------------------
 
-http://snippyhollow.github.io/
+https://blog.dominodatalab.com
 
-http://www.thomasdimson.com/
+https://ahmedbesbes.com/
 
-http://blog.smellthedata.com/
+https://jeremykun.com/
 
-http://sebastianraschka.com/
+https://iamtrask.github.io/
+
+https://blog.explainmydata.com/
+
+https://statmodeling.stat.columbia.edu
+
+https://simplystatistics.org/
+
+https://www.evanmiller.org/
+
+https://jakevdp.github.io/
+
+http://wesmckinney.com
+
+https://www.overkillanalytics.net/
+
+https://newton.cx/~peter/
+
+https://mbakker7.github.io/exploratory_computing_with_python/
+
+https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
+
+https://colah.github.io/
+
+https://sebastianraschka.com/
 
 http://dogdogfish.com/
 
-http://www.johnmyleswhite.com/
+https://www.johnmyleswhite.com/
 
 http://drewconway.com/zia/
 
-http://bugra.github.io/
+https://bugra.github.io/
 
-##### Math
+http://opendata.cern.ch/
+
+https://alexanderetz.com/
 
 http://www.sumsar.net/
 
-http://allendowney.blogspot.ca/
+https://www.countbayesie.com
 
-http://healthyalgorithms.com/
+https://karpathy.github.io/  https://medium.com/@karpathy
 
-http://petewarden.com/
+http://blog.kaggle.com/
 
-http://mrtz.org/blog/
+https://www.danvk.org/
 
-##### Security Related
+http://hunch.net/
 
-http://jordan-wright.github.io/blog/
+http://www.randalolson.com/blog/
+
+https://www.johndcook.com/blog/r_language_for_programmers/
+
+https://www.dataschool.io/
+
+https://www.datasciencecentral.com
+
+https://mubaris.com
+
+https://distill.pub
+
+http://blog.shakirm.com/
+
+https://www.cs.ox.ac.uk/people/yarin.gal/website/blog.html
+
+[LightTag NLP Blog](https://www.lighttag.io/blog)
+
+Math
+----
+
+https://www.allendowney.com/blog/
+
+https://healthyalgorithms.com/
+
+https://petewarden.com/
+
+https://blog.mrtz.org
+
+https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos
+
+https://www.youtube.com/channel/UCr22xikWUK2yUW4YxOKXclQ/videos
+
+Security Related
+----------------
+
+https://jordan-wright.com/blog/
